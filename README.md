@@ -1,7 +1,7 @@
 # Discord-to-Telegram Mirror Bot
 
 A robust Python script for mirroring content from specified Discord channels to corresponding threads in a Telegram channel. This project is designed as a data pipeline to forward messages, embeds, and images automatically.
-
+![Project Demo Image](assets/project-demo.jpg)
 ## Features
 
 - **Channel-to-Thread Mapping:** Easily configure which Discord channel mirrors to which Telegram channel thread.
