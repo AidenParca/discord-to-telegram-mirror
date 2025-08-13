@@ -22,8 +22,8 @@ A robust Python script for mirroring content from specified Discord channels to 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [your-repo-url]
-    cd [your-repo-name]
+    git clone https://github.com/AidenParca/discord-to-telegram-mirror
+    cd discord-to-telegram-mirror
     ```
 
 2.  **Install dependencies:**
